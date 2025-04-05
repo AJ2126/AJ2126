@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AJ2126
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++, kotlin
+- 🌱 I’m currently learning python 
 <!-- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: My number is 09155306537
 <!--- - 😄 Pronouns: ...
