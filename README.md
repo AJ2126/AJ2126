@@ -32,7 +32,7 @@
 - 💻 Expanding programming knowledge
 
 ### 🚀 Projects
-[You can add your projects here]
+- 
 
 ### 📫 Connect With Me
 [You can add your preferred contact methods here]
