@@ -14,6 +14,7 @@
 - JavaScript
 - Kotlin
 - HTML/CSS
+- GDScript
 
 #### Game Development
 - Unity Engine
