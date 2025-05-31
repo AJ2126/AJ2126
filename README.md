@@ -12,18 +12,19 @@
 - C++
 - C#
 - JavaScript
-- Kotlin
 - HTML/CSS
 - GDScript
 
-#### Game Development
+#### Game development 
 - Unity Engine
 - Godot Engine
+- Pyglet
 
 #### Creative Tools
 - Blender (3D Modeling)
 - LMMS (Music)
 - GIMP & Krita (Digital Art)
+- Krita (Pixel art)
 
 ### 🌱 Learning Journey
 - 🎮 Game Development with Unity and Godot
@@ -35,7 +36,8 @@
 - 
 
 ### 📫 Connect With Me
-[You can add your preferred contact methods here]
+Email: jasonawogu@gmail.com 
+Discord: ajg2126
 <!---
 AJ2126/AJ2126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
