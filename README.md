@@ -33,12 +33,9 @@
 - 💻 Expanding programming knowledge
 
 ### 🚀 Projects
-- 
+-https://github.com/AJ2126/NightLight
+- coming online soon...
 
 ### 📫 Connect With Me
 Email: jasonawogu@gmail.com 
 Discord: ajg2126
-<!---
-AJ2126/AJ2126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
