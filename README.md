@@ -1,3 +1,3 @@
 # Hello 👋 
 
-I code games from scratch using C++.
+I'm learning how to programming and exploring new things
